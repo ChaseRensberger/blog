@@ -63,6 +63,8 @@ params:
         url: posts
       - name: Blog
         url: blog
+      - name: Resume
+        url: https://resume.chaserensberger.com
 
   # home-info mode
   homeInfoParams:
@@ -114,6 +116,11 @@ menu:
       name: Blog
       url: blog
       weight: 20
+    - identifier: resume
+      name: Resume
+      url: https://resume.chaserensberger.com
+      weight: 30
+
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
