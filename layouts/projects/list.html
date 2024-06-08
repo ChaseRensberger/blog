@@ -63,7 +63,7 @@
 {{- $class = "post-entry tag-entry" }}
 {{- end }}
 
-<h2>
+<h2 class="dont-show">
     Stuff I am working on
 </h2>
 
@@ -89,9 +89,9 @@
   </div>
   {{- end }}
   {{- if not (.Param "hideMeta") }}
-  <!-- <footer class="entry-footer">
+  <footer class="entry-footer">
     {{- partial "post_meta.html" . -}}
-  </footer> -->
+  </footer>
   {{- end }}
   <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}"></a>
   <a href="{{ .Params.sourceCodeUrl }}" class="button">View Source Code</a>
