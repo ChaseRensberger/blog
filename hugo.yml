@@ -60,7 +60,7 @@ params:
     subtitle: "I write code on the east coast"
     buttons:
       - name: Projects
-        url: posts
+        url: projects
       - name: Resume
         url: "https://exposed-documents.s3.amazonaws.com/resume.pdf"
 
