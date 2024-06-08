@@ -1,4 +1,4 @@
-baseURL: "https://examplesite.com/"
+baseURL: "https://blog-nine-sepia.vercel.app"
 title: Chase Rensberger
 paginate: 5
 theme: "PaperMod"
