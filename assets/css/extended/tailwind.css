@@ -106,11 +106,23 @@
   --tw-contain-style:  
 }
 
+.ml-0 {
+  margin-left: 0px
+}
+
 .hidden {
   display: none
+}
+
+.p-2 {
+  padding: 0.5rem
 }
 
 .py-4 {
   padding-top: 1rem;
   padding-bottom: 1rem
+}
+
+.pb-3 {
+  padding-bottom: 0.75rem
 }
