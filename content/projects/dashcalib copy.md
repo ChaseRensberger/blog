@@ -26,7 +26,7 @@ ShowWordCount: false
 # UseHugoToc: true
 sourceCodeUrl: "https://github.com/myusername/myproject"
 demoUrl: "https://myusername.github.io/myproject"
-working: false
+working: true
 # cover:
 #     image: "<image path/url>" # image path/url
 #     alt: "<alt text>" # alt text
